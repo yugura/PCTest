@@ -1,7 +1,7 @@
 # !bin/bash
 
-git clone https://github.com/yugura/PCTest.git
-cd PCTest
+#git clone https://github.com/yugura/PCTest.git
+#cd PCTest
 chmod +x PCTest.sh
 ./PCTest.sh
 cd ..
